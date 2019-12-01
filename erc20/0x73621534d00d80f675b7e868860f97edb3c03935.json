@@ -1,0 +1,17 @@
+{
+"symbol": "BBA",
+"address": "0x73621534d00d80f675b7e868860f97edb3c03935",
+"overview": {
+"en": "A Decentralized Marketplace for IOT solution market."
+},
+"email": "bbacoder@gmail.com",
+"website": "https://bba.plus/",
+"whitepaper": "https://bba.plus/bba.pdf",
+"published_on": "2019-12-01",
+"initial_price": {
+"USDT": "0.25 USDT"
+},
+"links": {
+"website": "https://bba.plus/",
+}
+}
